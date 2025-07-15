@@ -43,7 +43,7 @@ A social networking site using Next.js, MongoDB and Firebase.
 - optimizing images with Image.
 - handling comments and signups for the newsletter with API routes.
 - setting up a MongoDB database and getting comments for a specific event.
-- handling errors and displaying user-friendly notifications.
+
 
 ## <a name="blog"></a> 2) Blog
 
