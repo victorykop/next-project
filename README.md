@@ -212,8 +212,7 @@ A property rental website using Tailwind CSS, MongoDB, and TypeScript.
 - handling searches by location and property type.
 - implementing a messaging system that allows users to send, view, and manage messages, featuring message notifications.
 - managing pagination.
-- displaying images in a lightbox with react-photoswipe-gallery.
-- displaying featured properties.
+
 
 ## Acknowledgments
 
